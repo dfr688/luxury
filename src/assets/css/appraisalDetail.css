@@ -1,0 +1,93 @@
+.appraisalDetail{
+	 height: 100%;
+ }
+ .appraisalDetail .detail{
+	 margin: 0 .4rem;
+	 margin-top: .6rem;
+ }
+ .appraisalDetail .detail>li{
+	 display: flex;
+	 margin: .4rem 0;
+ }
+ .appraisalDetail .detail>li .left{
+	 flex: 1;
+	 margin-top: -.6rem;
+ }
+ .appraisalDetail .detail>li .left img{
+	 width: .53rem;
+	 height: .43rem;
+ }
+ .appraisalDetail .detail>li .right{
+ 	 flex: 6;
+ }
+ .appraisalDetail .detail>li .right .top{
+	 display: flex;
+ }
+ .appraisalDetail .detail>li .right .top p{
+	 font-size: .32rem;
+	 flex: 2;
+ }
+ .appraisalDetail .detail>li .right .top div{
+	 flex: 1;
+	 font-size: .22rem;
+	 text-align: right;
+ }
+ .appraisalDetail .detail>li .right .top span{
+	 display: inline-block;
+ 	 width: 1.2rem;
+	 height: .4rem;
+	 background: #dacdba;
+	 border-radius: .2rem;
+	 color: #fff;
+	 text-align: center;
+	 line-height: .4rem;
+ }
+ .appraisalDetail .detail>li .right .text{
+	 font-size: .26rem;
+	 color: #666;
+	 margin: .2rem 0;
+ }
+ .appraisalDetail .detail>li .right ul li img{
+	 width: 5.8rem;
+	 height: 5.8rem;
+   max-width: 5.8rem;
+   max-height: 5.8rem;
+ }
+ .appraisalDetail .reply{
+	 display: flex;
+	 margin: 0 .4rem;
+ }
+ .appraisalDetail .reply .left{
+	 flex: 1;
+ }
+ .appraisalDetail .reply .left span{
+ 	 display: inline-block;
+	 width: .52rem;
+	 height: .52rem;
+	 background: #dcdcdc;
+	 border-radius: .6rem;
+	 margin-bottom: 1rem;
+ }
+ .appraisalDetail .reply .right{
+ 	 flex: 6;
+ }
+ .appraisalDetail .reply .right div{
+	 display: flex;
+ }
+ .appraisalDetail .reply .right div .title{
+	 flex: 2;
+	 font-size: .32rem;
+ }
+ .appraisalDetail .reply .right div .time{
+ 	 flex: 1;
+	 font-size: .24rem;
+	 color: #999;
+	 text-align: right;
+	 height: .42rem;
+	 line-height: .42rem;
+ }
+ .appraisalDetail .reply .right .word{
+	 font-size: .26rem;
+	 color: #666;
+	 margin: .2rem 0;
+ }

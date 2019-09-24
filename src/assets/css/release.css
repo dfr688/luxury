@@ -1,0 +1,162 @@
+.release{
+	height: 100%;
+    width: 100%;
+    padding-bottom: 1.2rem;
+    box-sizing: border-box;
+}
+.release .wrap{
+	margin: 0 .4rem;
+	font-size: .32rem;
+}
+.release .wrap .part_one{
+	margin-bottom: .4rem;
+}
+.release .wrap .part_one .title{
+	display: flex;
+	margin-top: .5rem;
+	margin-bottom: .6rem;
+}
+.release .wrap .part_one .title .tit{
+	flex: 1;
+}
+.release .wrap .part_one .title div{
+	flex: 5;
+}
+.release .wrap .part_one .title div input{
+	width: 100%;
+	font-size: .32rem;
+}
+.release .wrap .part_one .text{
+	width: 100%;
+	height: 1.8rem;
+	margin-bottom: .3rem;
+}
+.release .wrap .part_one .text textarea{
+	font-size: .32rem;
+	width: 100%;
+	height: 100%;
+}
+.release .wrap .part_two ul li{
+	display: flex;
+	margin: .5rem 0;
+}
+.release .wrap .part_two ul li .left{
+	flex: 1;
+}
+.release .wrap .part_two ul li .right{
+	flex: 4;
+	text-align: right;
+}
+.release .wrap .part_two ul li .right input{
+	font-size: .32rem;
+	text-align: right;
+	width: 100%;
+}
+.release .wrap .part_two ul li .right i{
+	display: inline-block;
+	width: .13rem;
+	height: .24rem;
+	background: url(../images/public/right_rocket.png) no-repeat left top;
+	background-size: 100%;
+	margin-left: .2rem;
+	margin-bottom: -.03rem;
+}
+.release .wrap .part_two ul .people .right input{
+	width: auto;
+}
+.release .wrap .part_two ul .people .right label{
+	margin-right: .3rem;
+	margin-left: .1rem;
+}
+.release .wrap .part_two ul .people .right label:last-child{
+	margin-right: 0;
+}
+.release .wrap .part_two ul .buy_time .right input{
+	width: auto;
+}
+.release .wrap .part_two ul .type .right input{
+	width: auto;
+}
+.release .wrap .part_two ul .place .right input{
+	width: auto;
+}
+.release .wrap .part_two ul .tag .right span{
+	display: inline-block;
+	width:1.5rem;
+	height: .48rem;
+	line-height: .48rem;
+	text-align: center;
+	color: #fffefe;
+	background: #999;
+	border-radius: .24rem;
+	margin-right: .2rem;
+	margin-bottom: .2rem;
+	font-size: .3rem;
+}
+.release .wrap .part_two ul .tag .right span.active{
+	background: #000;
+}
+.release .wrap .btn{
+	width: 6.7rem;
+    height: .8rem;
+    line-height: .8rem;
+    text-align: center;
+    font-size: .32rem;
+    color: #fff;
+    background: #2e323b;
+    border-radius: .4rem;
+    margin: 0 auto;
+    margin-bottom: .5rem;
+}
+.release .wrap .prompt div{
+	text-align: center;
+	margin-bottom: .4rem;
+}
+.release .wrap .prompt p{
+	font-size: .28rem;
+	color: #999;
+	margin-bottom: .2rem;
+}
+
+/* 分类弹框 */
+.release .mint-popup{
+	width: 100%;
+}
+.release .types div{
+	margin: 0 .4rem;
+}
+.release .types div p{
+	text-align: center;
+	font-size: .3rem;
+	margin-top: .2rem;
+	padding-bottom: .2rem;
+	border-bottom: 1px solid #f1f1f1;
+}
+.release .types div p:last-child{
+	border-bottom: none;
+}
+.release .upload .uploadImg img{
+	margin-right: .2rem;
+	width: 2.1rem;
+	height: 2.1rem;
+}
+
+/* 修改单选框的默认样式 */
+input[type='radio']{
+    display:none; 
+}
+input[type='radio'] + label:before{
+	content: "";
+    display: inline-block;
+    width: 0.28rem;
+    height: 0.28rem;
+    margin-right: .1rem;
+	background: url(../images/public/unchecked.png) no-repeat left top;
+	background-size: 100%;
+	margin-bottom: -.02rem;
+}
+ 
+input[type='radio']:checked+label:before{
+   	background: url(../images/public/checked.png) no-repeat left top;
+   	background-size: 100%;
+}

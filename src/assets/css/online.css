@@ -1,0 +1,118 @@
+.online{
+	height: 100%;
+}
+.online .top{
+	width: 100%;
+	height: 6rem;
+	background: url(../images/home/background.png) no-repeat left top;
+	background-size: 100%;
+	padding-top: .8rem;
+	padding-left: .4rem;
+	font-size: .52rem;
+	box-sizing: border-box;
+	color: #fff;
+}
+.online .top i{
+	display: inline-block;
+	width: .21rem;
+	height: .43rem;
+	background: url(../../assets/images/public/back_w.png) no-repeat left top;
+	background-size: 100%;
+	margin-bottom: .2rem;
+}
+.online .step{
+	width: 6.7rem;
+	height: 2.17rem;
+	background: url(../images/home/step.png) no-repeat left top;
+	background-size: 100%;
+	margin: 0 auto;
+	box-shadow: 0px 9px 29px 3px rgba(63, 63, 63, 0.1);
+	border-radius: .1rem;
+	margin-top: -1.09rem;
+}
+.online .title{
+	display: flex;
+	margin: .4rem;
+	margin-bottom: .8rem;
+}
+.online .title .line{
+	width: 2.3rem;
+	height: 1px;
+	background: #eee;
+	margin-top: .3rem;
+}
+.online .title .tit{
+	font-size: .42rem;
+	margin: 0 .2rem;
+}
+.online ul{
+	margin: 0 .4rem;
+}
+.online ul li{
+	display: flex;
+	font-size: .32rem;
+	margin-top: .3rem;
+	padding-bottom: .3rem;
+	border-bottom: 1px solid #f1f1f1;
+}
+.online ul li p{
+	flex: 1;
+}
+.online ul li div{
+	flex: 3;
+	text-align: right;
+}
+.online ul li div input{
+	font-size: .32rem;
+	text-align: right;
+	width: 100%;
+}
+.online ul .photo{
+	display: block;
+	border-bottom: none;
+	padding-bottom: 0;
+}
+.online ul .photo p{
+	margin-bottom: .4rem;
+}
+.online ul .photo div{
+	height: 4.2rem;
+	margin-bottom: .2rem;
+}
+.online .note{
+	color: #ff0202;
+	font-size: .24rem;
+	margin: 0 .4rem;
+	/* margin-top: .2rem; */
+}
+.online .btn{
+	width: 6.7rem;
+    height: .8rem;
+    line-height: .8rem;
+    text-align: center;
+    font-size: .32rem;
+    color: #fff;
+    background: #2e323b;
+    border-radius: .4rem;
+    margin: 0 auto;
+    margin-top: .4rem;
+    margin-bottom: .6rem;
+}
+
+/* 分类弹框 */
+.online .mint-popup{
+	width: 100%;
+}
+.online .types div{
+	margin: 0 .4rem;
+}
+.online .types div p{
+	text-align: center;
+	font-size: .3rem;
+	margin-top: .2rem;
+	padding-bottom: .2rem;
+	border-bottom: 1px solid #f1f1f1;
+}
+.online .types div p:last-child{
+	border-bottom: none;
+}

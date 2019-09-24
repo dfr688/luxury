@@ -1,0 +1,209 @@
+.productDetail{
+	width: 100%;
+	height: 100%;
+	padding-bottom: 1.32rem;
+	box-sizing: border-box;
+}
+.productDetail .top{
+	width: 100%;
+	height: 7.47rem;
+	position: relative;
+}
+.productDetail .top img{
+	width: 100%;
+	height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.productDetail .top i{
+	display: inline-block;
+	width: .21rem;
+	height: .43rem;
+	background: url(../images/public/back.png) no-repeat left top;
+	background-size: 100%;
+	position: absolute;
+	top: 1rem;
+	left: .4rem;
+}
+.productDetail .wrap{
+	margin: 0 .4rem;
+	margin-top: .5rem;
+}
+.productDetail .wrap .intro .title{
+	font-size: .42rem;
+	position: relative;
+}
+.productDetail .wrap .intro .title span{
+	display: inline-block;
+	font-size: .28rem;
+    width: .8rem;
+    height: .4rem;
+    text-align: center;
+    line-height: .4rem;
+    color: #fff;
+    background: #d01e07;
+    border-radius: .1rem;
+    margin-right: .2rem;
+	position: absolute;
+	top: 0.12rem;
+	left: 0;
+}
+.productDetail .wrap .intro .title p{
+	display: inline-block;
+	margin-left: 1rem;
+}
+.productDetail .wrap .intro .info{
+	display: flex;
+	margin-top: .3rem;
+}
+.productDetail .wrap .intro .info div{
+	flex: 1;
+	font-size: .26rem;
+}
+.productDetail .wrap .intro .info div p{
+	font-size: .52rem;
+}
+.productDetail .wrap .intro .info div span{
+	color: #999;
+	margin-left: .1rem;
+}
+.productDetail .wrap .intro .info>p{
+	flex: 1;
+	font-size: .26rem;
+	text-align: right;
+	padding-top: .6rem;
+}
+.productDetail .wrap .intro .info>p i{
+	display: inline-block;
+	width: .37rem;
+	height: .27rem;
+	background: url(../images/home/browse.png) no-repeat left top;
+	background-size: 100%;
+	margin-right: .12rem;
+	margin-bottom: -.04rem;
+}
+.productDetail .wrap .intro .tags{
+	font-size: .26rem;
+	color: #fff;
+	margin-top: .4rem;
+}
+.productDetail .wrap .intro .tags span{
+	display: inline-block;
+	width: 1.4rem;
+	height: .48rem;
+	background: #d4aa6e;
+	border-radius: .24rem;
+	text-align: center;
+	line-height: .48rem;
+	margin-right: .2rem;
+}
+.productDetail .wrap .about{
+	margin-top: .8rem;
+}
+.productDetail .wrap .about .title{
+	font-size: .36rem;
+	margin-bottom: .2rem;
+}
+.productDetail .wrap .about .basic li{
+	display: flex;
+	font-size: .32rem;
+	padding: .2rem 0;
+}
+.productDetail .wrap .about .basic li:last-child{
+	padding-bottom: .7rem;
+	border-bottom: 1px solid #f1f1f1;
+}
+.productDetail .wrap .about .basic li span{
+	flex: 1;
+	color: #999;
+}
+.productDetail .wrap .about .basic li p{
+	flex: 2;
+}
+.productDetail .wrap .about .other{
+	display: flex;
+	margin-top: .5rem;
+	margin-bottom: 1rem;
+}
+.productDetail .wrap .about .other li{
+	flex: 1;
+	font-size: .32rem;
+	text-align: center;
+	border-right: 1px solid #f1f1f1;
+}
+.productDetail .wrap .about .other li:last-child{
+	border-right: none;
+}
+.productDetail .wrap .about .other li span{
+	font-size: .28rem;
+	color: #999;
+	display: inline-block;
+	margin-bottom: .1rem;
+}
+.productDetail .wrap .picture p{
+	font-size: .36rem;
+	margin-bottom: .4rem;
+}
+.productDetail .wrap .picture ul li{
+	width: 6.7rem;
+	height: 6.7rem;
+	margin-bottom: .24rem;
+}
+.productDetail .wrap .picture ul li img{
+	width: 100%;
+	height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.productDetail .wrap .remark{
+	font-size: .26rem;
+	color: #666;
+	margin-top: .36rem;
+	margin-bottom: .4rem;
+	line-height: .4rem;
+}
+/* 底部 */
+.productDetail .consult{
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	display: flex;
+	padding: 0 .4rem;
+	box-sizing: border-box;
+	background: #fff;
+	box-shadow: 1px -9px 22px 2px rgba(0, 0, 0, 0.1);
+	z-index: 1;
+}
+.productDetail .consult a{
+	display: inline-block;
+	width: 5.6rem;
+	height: .8rem;
+	background: url(../images/home/phone_consult.png) no-repeat left top;
+	background-size: 100%;
+	margin-top: .26rem;
+}
+.productDetail .consult div{
+	display: inline-block;
+	width: 5.6rem;
+	height: .8rem;
+	background: url(../images/home/phone_consult.png) no-repeat left top;
+	background-size: 100%;
+	margin-top: .26rem;
+}
+.productDetail .consult p{
+	text-align: right;
+	width: 1.1rem;
+}
+.productDetail .consult p span{
+	display: inline-block;
+	width: .8rem;
+	height: .8rem;
+	background: url(../images/home/uncollect.png) no-repeat left top;
+	background-size: 100%;
+	margin-top: .26rem;
+}
+.productDetail .consult p span.active{
+	background: url(../images/home/collected.png) no-repeat left top;
+	background-size: 100%;
+}

@@ -1,0 +1,141 @@
+.home{
+	height: 100%;
+	width: 100%;
+	padding-bottom: 1.2rem;
+	box-sizing: border-box;
+}
+.home .top{
+	display: flex;
+	margin: 0 .4rem;
+	font-size: .52rem;
+	padding-top: 1rem;
+	padding-bottom: .3rem;
+}
+.home .top span{
+	flex: 1;
+}
+.home .top div{
+	flex: 1;
+	text-align: right;
+}
+.home .top div i{
+	display: inline-block;
+	width: .42rem;
+	height: .42rem;
+	background: url(../images/home/search.png) no-repeat left top;
+	background-size: 100%;
+	margin-bottom: -.1rem;
+}
+.home .banner{
+	width: 6.7rem;
+	height: 4.37rem;
+	background: url(../images/home/banner.png) no-repeat left top;
+	background-size: 100%;
+	margin: 0 auto;
+	margin-bottom: .2rem;
+}
+.home .authority_skill{
+	display: flex;
+	margin: 0 .4rem;
+	margin-bottom: .3rem;
+}
+.home .authority_skill li{
+	width: 3.2rem;
+	height: 1.6rem;
+}
+.home .authority_skill li:first-child{
+	margin-right: .3rem;
+	background: url(../images/home/authority.png) no-repeat left top;
+	background-size: 100%;
+}
+.home .authority_skill li:last-child{
+	background: url(../images/home/skill.png) no-repeat left top;
+	background-size: 100%;
+}
+.home .offline{
+	width: 6.7rem;
+	height: 2rem;
+	background: url(../images/home/offline.png) no-repeat left top;
+	background-size: 100%;
+	margin: 0 auto;
+	margin-bottom: .6rem;
+}
+/* 今日上新 */
+.home .update{
+	width: 100%;
+	padding: 0 .3rem;
+	box-sizing: border-box;
+	margin-bottom: .6rem;
+}
+.home .update .title{
+	font-size: .36rem;
+	margin-left: .1rem;
+	font-weight: bold;
+	margin-bottom: .1rem;
+}
+.home .update .wrap{
+	height: 4.1rem;
+	overflow-y: hidden;
+}
+.home .update .contain{
+	width: 100%;
+	height: 100%;
+	overflow-x: scroll;
+	-webkit-overflow-scrolling: touch;
+	padding-top: .2rem;
+}
+.home .update .contain::-webkit-scrollbar{
+	display: none;
+}
+.home .update ul{
+	width: 180%;
+}
+.home .update ul li{
+	width: 2.8rem;
+	margin: 0 .1rem;
+}
+.home .update ul li .image{
+	width: 100%;
+	height: 2.8rem;
+}
+.home .update ul li .image img{
+	width: 100%;
+	height: 2.8rem;
+  max-width: 100%;
+  max-height: 2.8rem;
+}
+.home .update ul li .tit{
+	font-size: .28rem;
+	margin-top: .2rem;
+	width: 2.8rem;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.home .update ul li .tit span{
+	display: inline-block;
+	font-size: .18rem;
+	width: .6rem;
+	height: .32rem;
+	text-align: center;
+	line-height: .32rem;
+	color: #fff;
+	background: #d01e07;
+	border-radius: .04rem;
+	margin-right: .2rem;
+}
+.home .update ul li p{
+	font-size: .24rem;
+	margin-top: .1rem;
+}
+.home .update ul li p span{
+	font-size: .32rem;
+	font-weight: bold;
+}
+/* 优选推荐 */
+.home .option .title{
+	font-size: .36rem;
+	font-weight: bold;
+	margin-left: .4rem;
+	margin-bottom: .3rem;
+}

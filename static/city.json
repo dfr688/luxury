@@ -1,0 +1,2487 @@
+{
+  "city": [
+    {
+      "list": [
+        {
+          "firstName": "A",
+          "code1": "1529",
+          "provinceCode": "15",
+          "code": "152900",
+          "name": "阿拉善盟"
+        },
+        {
+          "firstName": "A",
+          "code1": "2103",
+          "provinceCode": "21",
+          "code": "210300",
+          "name": "鞍山市"
+        },
+        {
+          "firstName": "A",
+          "code1": "3408",
+          "provinceCode": "34",
+          "code": "340800",
+          "name": "安庆市"
+        },
+        {
+          "firstName": "A",
+          "code1": "4105",
+          "provinceCode": "41",
+          "code": "410500",
+          "name": "安阳市"
+        },
+        {
+          "firstName": "A",
+          "code1": "5132",
+          "provinceCode": "51",
+          "code": "513200",
+          "name": "阿坝藏族羌族自治州"
+        },
+        {
+          "firstName": "A",
+          "code1": "5204",
+          "provinceCode": "52",
+          "code": "520400",
+          "name": "安顺市"
+        },
+        {
+          "firstName": "A",
+          "code1": "5425",
+          "provinceCode": "54",
+          "code": "542500",
+          "name": "阿里地区"
+        },
+        {
+          "firstName": "A",
+          "code1": "6109",
+          "provinceCode": "61",
+          "code": "610900",
+          "name": "安康市"
+        },
+        {
+          "firstName": "A",
+          "code1": "6529",
+          "provinceCode": "65",
+          "code": "652900",
+          "name": "阿克苏地区"
+        },
+        {
+          "firstName": "A",
+          "code1": "6543",
+          "provinceCode": "65",
+          "code": "654300",
+          "name": "阿勒泰地区"
+        }
+      ],
+      "initial": "A"
+    },
+    {
+      "list": [
+        {
+          "firstName": "B",
+          "code1": "1306",
+          "provinceCode": "13",
+          "code": "130600",
+          "name": "保定市"
+        },
+        {
+          "firstName": "B",
+          "code1": "2000",
+          "provinceCode": "20",
+          "code": "200000",
+          "name": "北京市"
+        },
+        {
+          "firstName": "B",
+          "code1": "1502",
+          "provinceCode": "15",
+          "code": "150200",
+          "name": "包头市"
+        },
+        {
+          "firstName": "B",
+          "code1": "1508",
+          "provinceCode": "15",
+          "code": "150800",
+          "name": "巴彦淖尔市"
+        },
+        {
+          "firstName": "B",
+          "code1": "2105",
+          "provinceCode": "21",
+          "code": "210500",
+          "name": "本溪市"
+        },
+        {
+          "firstName": "B",
+          "code1": "2206",
+          "provinceCode": "22",
+          "code": "220600",
+          "name": "白山市"
+        },
+        {
+          "firstName": "B",
+          "code1": "2208",
+          "provinceCode": "22",
+          "code": "220800",
+          "name": "白城市"
+        },
+        {
+          "firstName": "B",
+          "code1": "3403",
+          "provinceCode": "34",
+          "code": "340300",
+          "name": "蚌埠市"
+        },
+        {
+          "firstName": "B",
+          "code1": "3416",
+          "provinceCode": "34",
+          "code": "341600",
+          "name": "亳州市"
+        },
+        {
+          "firstName": "B",
+          "code1": "3716",
+          "provinceCode": "37",
+          "code": "371600",
+          "name": "滨州市"
+        },
+        {
+          "firstName": "B",
+          "code1": "4505",
+          "provinceCode": "45",
+          "code": "450500",
+          "name": "北海市"
+        },
+        {
+          "firstName": "B",
+          "code1": "4510",
+          "provinceCode": "45",
+          "code": "451000",
+          "name": "百色市"
+        },
+        {
+          "firstName": "B",
+          "code1": "5119",
+          "provinceCode": "51",
+          "code": "511900",
+          "name": "巴中市"
+        },
+        {
+          "firstName": "B",
+          "code1": "5205",
+          "provinceCode": "52",
+          "code": "520500",
+          "name": "毕节市"
+        },
+        {
+          "firstName": "B",
+          "code1": "5305",
+          "provinceCode": "53",
+          "code": "530500",
+          "name": "保山市"
+        },
+        {
+          "firstName": "B",
+          "code1": "6103",
+          "provinceCode": "61",
+          "code": "610300",
+          "name": "宝鸡市"
+        },
+        {
+          "firstName": "B",
+          "code1": "6204",
+          "provinceCode": "62",
+          "code": "620400",
+          "name": "白银市"
+        },
+        {
+          "firstName": "B",
+          "code1": "6527",
+          "provinceCode": "65",
+          "code": "652700",
+          "name": "博尔塔拉蒙古自治州"
+        },
+        {
+          "firstName": "B",
+          "code1": "6528",
+          "provinceCode": "65",
+          "code": "652800",
+          "name": "巴音郭楞蒙古自治州"
+        }
+      ],
+      "initial": "B"
+    },
+    {
+      "list": [
+        {
+          "firstName": "C",
+          "code1": "1308",
+          "provinceCode": "13",
+          "code": "130800",
+          "name": "承德市"
+        },
+        {
+          "firstName": "C",
+          "code1": "1309",
+          "provinceCode": "13",
+          "code": "130900",
+          "name": "沧州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "1504",
+          "provinceCode": "15",
+          "code": "150400",
+          "name": "赤峰市"
+        },
+        {
+          "firstName": "C",
+          "code1": "2113",
+          "provinceCode": "21",
+          "code": "211300",
+          "name": "朝阳市"
+        },
+        {
+          "firstName": "C",
+          "code1": "3204",
+          "provinceCode": "32",
+          "code": "320400",
+          "name": "常州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "3411",
+          "provinceCode": "34",
+          "code": "341100",
+          "name": "滁州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "3417",
+          "provinceCode": "34",
+          "code": "341700",
+          "name": "池州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "4307",
+          "provinceCode": "43",
+          "code": "430700",
+          "name": "常德市"
+        },
+        {
+          "firstName": "C",
+          "code1": "4310",
+          "provinceCode": "43",
+          "code": "431000",
+          "name": "郴州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "4451",
+          "provinceCode": "44",
+          "code": "445100",
+          "name": "潮州市"
+        },
+        {
+          "firstName": "C",
+          "code1": "4514",
+          "provinceCode": "45",
+          "code": "451400",
+          "name": "崇左市"
+        },
+        {
+          "firstName": "C",
+          "code1": "5101",
+          "provinceCode": "51",
+          "code": "510100",
+          "name": "成都市"
+        },
+        {
+          "firstName": "C",
+          "code1": "5323",
+          "provinceCode": "53",
+          "code": "532300",
+          "name": "楚雄彝族自治州"
+        },
+        {
+          "firstName": "C",
+          "code1": "5403",
+          "provinceCode": "54",
+          "code": "540300",
+          "name": "昌都市"
+        },
+        {
+          "firstName": "C",
+          "code1": "6523",
+          "provinceCode": "65",
+          "code": "652300",
+          "name": "昌吉回族自治州"
+        },
+        {
+          "firstName": "C",
+          "code1": "3000",
+          "provinceCode": "30",
+          "code": "300000",
+          "name": "重庆"
+        }
+      ],
+      "initial": "C"
+    },
+    {
+      "list": [
+        {
+          "firstName": "D",
+          "code1": "1402",
+          "provinceCode": "14",
+          "code": "140200",
+          "name": "大同市"
+        },
+        {
+          "firstName": "D",
+          "code1": "2102",
+          "provinceCode": "21",
+          "code": "210200",
+          "name": "大连市"
+        },
+        {
+          "firstName": "D",
+          "code1": "2106",
+          "provinceCode": "21",
+          "code": "210600",
+          "name": "丹东市"
+        },
+        {
+          "firstName": "D",
+          "code1": "2306",
+          "provinceCode": "23",
+          "code": "230600",
+          "name": "大庆市"
+        },
+        {
+          "firstName": "D",
+          "code1": "2327",
+          "provinceCode": "23",
+          "code": "232700",
+          "name": "大兴安岭地区"
+        },
+        {
+          "firstName": "D",
+          "code1": "3705",
+          "provinceCode": "37",
+          "code": "370500",
+          "name": "东营市"
+        },
+        {
+          "firstName": "D",
+          "code1": "3714",
+          "provinceCode": "37",
+          "code": "371400",
+          "name": "德州市"
+        },
+        {
+          "firstName": "D",
+          "code1": "4419",
+          "provinceCode": "44",
+          "code": "441900",
+          "name": "东莞市"
+        },
+        {
+          "firstName": "D",
+          "code1": "4604",
+          "provinceCode": "46",
+          "code": "460400",
+          "name": "儋州市"
+        },
+        {
+          "firstName": "D",
+          "code1": "5106",
+          "provinceCode": "51",
+          "code": "510600",
+          "name": "德阳市"
+        },
+        {
+          "firstName": "D",
+          "code1": "5117",
+          "provinceCode": "51",
+          "code": "511700",
+          "name": "达州市"
+        },
+        {
+          "firstName": "D",
+          "code1": "5329",
+          "provinceCode": "53",
+          "code": "532900",
+          "name": "大理白族自治州"
+        },
+        {
+          "firstName": "D",
+          "code1": "5331",
+          "provinceCode": "53",
+          "code": "533100",
+          "name": "德宏傣族景颇族自治州"
+        },
+        {
+          "firstName": "D",
+          "code1": "5334",
+          "provinceCode": "53",
+          "code": "533400",
+          "name": "迪庆藏族自治州"
+        },
+        {
+          "firstName": "D",
+          "code1": "6211",
+          "provinceCode": "62",
+          "code": "621100",
+          "name": "定西市"
+        }
+      ],
+      "initial": "D"
+    },
+    {
+      "list": [
+        {
+          "firstName": "E",
+          "code1": "1506",
+          "provinceCode": "15",
+          "code": "150600",
+          "name": "鄂尔多斯市"
+        },
+        {
+          "firstName": "E",
+          "code1": "4207",
+          "provinceCode": "42",
+          "code": "420700",
+          "name": "鄂州市"
+        },
+        {
+          "firstName": "E",
+          "code1": "4228",
+          "provinceCode": "42",
+          "code": "422800",
+          "name": "恩施土家族苗族自治州"
+        }
+      ],
+      "initial": "E"
+    },
+    {
+      "list": [
+        {
+          "firstName": "F",
+          "code1": "2104",
+          "provinceCode": "21",
+          "code": "210400",
+          "name": "抚顺市"
+        },
+        {
+          "firstName": "F",
+          "code1": "2109",
+          "provinceCode": "21",
+          "code": "210900",
+          "name": "阜新市"
+        },
+        {
+          "firstName": "F",
+          "code1": "3412",
+          "provinceCode": "34",
+          "code": "341200",
+          "name": "阜阳市"
+        },
+        {
+          "firstName": "F",
+          "code1": "3501",
+          "provinceCode": "35",
+          "code": "350100",
+          "name": "福州市"
+        },
+        {
+          "firstName": "F",
+          "code1": "3610",
+          "provinceCode": "36",
+          "code": "361000",
+          "name": "抚州市"
+        },
+        {
+          "firstName": "F",
+          "code1": "4406",
+          "provinceCode": "44",
+          "code": "440600",
+          "name": "佛山市"
+        },
+        {
+          "firstName": "F",
+          "code1": "4506",
+          "provinceCode": "45",
+          "code": "450600",
+          "name": "防城港市"
+        }
+      ],
+      "initial": "F"
+    },
+    {
+      "list": [
+        {
+          "firstName": "G",
+          "code1": "3607",
+          "provinceCode": "36",
+          "code": "360700",
+          "name": "赣州市"
+        },
+        {
+          "firstName": "G",
+          "code1": "4401",
+          "provinceCode": "44",
+          "code": "440100",
+          "name": "广州市"
+        },
+        {
+          "firstName": "G",
+          "code1": "4503",
+          "provinceCode": "45",
+          "code": "450300",
+          "name": "桂林市"
+        },
+        {
+          "firstName": "G",
+          "code1": "4508",
+          "provinceCode": "45",
+          "code": "450800",
+          "name": "贵港市"
+        },
+        {
+          "firstName": "G",
+          "code1": "5108",
+          "provinceCode": "51",
+          "code": "510800",
+          "name": "广元市"
+        },
+        {
+          "firstName": "G",
+          "code1": "5116",
+          "provinceCode": "51",
+          "code": "511600",
+          "name": "广安市"
+        },
+        {
+          "firstName": "G",
+          "code1": "5133",
+          "provinceCode": "51",
+          "code": "513300",
+          "name": "甘孜藏族自治州"
+        },
+        {
+          "firstName": "G",
+          "code1": "5201",
+          "provinceCode": "52",
+          "code": "520100",
+          "name": "贵阳市"
+        },
+        {
+          "firstName": "G",
+          "code1": "6230",
+          "provinceCode": "62",
+          "code": "623000",
+          "name": "甘南藏族自治州"
+        },
+        {
+          "firstName": "G",
+          "code1": "6326",
+          "provinceCode": "63",
+          "code": "632600",
+          "name": "果洛藏族自治州"
+        },
+        {
+          "firstName": "G",
+          "code1": "6404",
+          "provinceCode": "64",
+          "code": "640400",
+          "name": "固原市"
+        }
+      ],
+      "initial": "G"
+    },
+    {
+      "list": [
+        {
+          "firstName": "H",
+          "code1": "1304",
+          "provinceCode": "13",
+          "code": "130400",
+          "name": "邯郸市"
+        },
+        {
+          "firstName": "H",
+          "code1": "1311",
+          "provinceCode": "13",
+          "code": "131100",
+          "name": "衡水市"
+        },
+        {
+          "firstName": "H",
+          "code1": "1501",
+          "provinceCode": "15",
+          "code": "150100",
+          "name": "呼和浩特市"
+        },
+        {
+          "firstName": "H",
+          "code1": "1507",
+          "provinceCode": "15",
+          "code": "150700",
+          "name": "呼伦贝尔市"
+        },
+        {
+          "firstName": "H",
+          "code1": "2114",
+          "provinceCode": "21",
+          "code": "211400",
+          "name": "葫芦岛市"
+        },
+        {
+          "firstName": "H",
+          "code1": "2301",
+          "provinceCode": "23",
+          "code": "230100",
+          "name": "哈尔滨市"
+        },
+        {
+          "firstName": "H",
+          "code1": "2304",
+          "provinceCode": "23",
+          "code": "230400",
+          "name": "鹤岗市"
+        },
+        {
+          "firstName": "H",
+          "code1": "2311",
+          "provinceCode": "23",
+          "code": "231100",
+          "name": "黑河市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3208",
+          "provinceCode": "32",
+          "code": "320800",
+          "name": "淮安市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3301",
+          "provinceCode": "33",
+          "code": "330100",
+          "name": "杭州市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3305",
+          "provinceCode": "33",
+          "code": "330500",
+          "name": "湖州市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3401",
+          "provinceCode": "34",
+          "code": "340100",
+          "name": "合肥市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3404",
+          "provinceCode": "34",
+          "code": "340400",
+          "name": "淮南市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3406",
+          "provinceCode": "34",
+          "code": "340600",
+          "name": "淮北市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3410",
+          "provinceCode": "34",
+          "code": "341000",
+          "name": "黄山市"
+        },
+        {
+          "firstName": "H",
+          "code1": "3717",
+          "provinceCode": "37",
+          "code": "371700",
+          "name": "菏泽市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4106",
+          "provinceCode": "41",
+          "code": "410600",
+          "name": "鹤壁市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4202",
+          "provinceCode": "42",
+          "code": "420200",
+          "name": "黄石市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4211",
+          "provinceCode": "42",
+          "code": "421100",
+          "name": "黄冈市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4304",
+          "provinceCode": "43",
+          "code": "430400",
+          "name": "衡阳市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4312",
+          "provinceCode": "43",
+          "code": "431200",
+          "name": "怀化市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4413",
+          "provinceCode": "44",
+          "code": "441300",
+          "name": "惠州市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4416",
+          "provinceCode": "44",
+          "code": "441600",
+          "name": "河源市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4511",
+          "provinceCode": "45",
+          "code": "451100",
+          "name": "贺州市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4512",
+          "provinceCode": "45",
+          "code": "451200",
+          "name": "河池市"
+        },
+        {
+          "firstName": "H",
+          "code1": "4601",
+          "provinceCode": "46",
+          "code": "460100",
+          "name": "海口市"
+        },
+        {
+          "firstName": "H",
+          "code1": "5325",
+          "provinceCode": "53",
+          "code": "532500",
+          "name": "红河哈尼族彝族自治州"
+        },
+        {
+          "firstName": "H",
+          "code1": "6107",
+          "provinceCode": "61",
+          "code": "610700",
+          "name": "汉中市"
+        },
+        {
+          "firstName": "H",
+          "code1": "6302",
+          "provinceCode": "63",
+          "code": "630200",
+          "name": "海东市"
+        },
+        {
+          "firstName": "H",
+          "code1": "6322",
+          "provinceCode": "63",
+          "code": "632200",
+          "name": "海北藏族自治州"
+        },
+        {
+          "firstName": "H",
+          "code1": "6323",
+          "provinceCode": "63",
+          "code": "632300",
+          "name": "黄南藏族自治州"
+        },
+        {
+          "firstName": "H",
+          "code1": "6325",
+          "provinceCode": "63",
+          "code": "632500",
+          "name": "海南藏族自治州"
+        },
+        {
+          "firstName": "H",
+          "code1": "6328",
+          "provinceCode": "63",
+          "code": "632800",
+          "name": "海西蒙古族藏族自治州"
+        },
+        {
+          "firstName": "H",
+          "code1": "6505",
+          "provinceCode": "65",
+          "code": "650500",
+          "name": "哈密市"
+        },
+        {
+          "firstName": "H",
+          "code1": "6532",
+          "provinceCode": "65",
+          "code": "653200",
+          "name": "和田地区"
+        }
+      ],
+      "initial": "H"
+    },
+    {
+      "list": [
+        {
+          "firstName": "J",
+          "code1": "1405",
+          "provinceCode": "14",
+          "code": "140500",
+          "name": "晋城市"
+        },
+        {
+          "firstName": "J",
+          "code1": "1407",
+          "provinceCode": "14",
+          "code": "140700",
+          "name": "晋中市"
+        },
+        {
+          "firstName": "J",
+          "code1": "2107",
+          "provinceCode": "21",
+          "code": "210700",
+          "name": "锦州市"
+        },
+        {
+          "firstName": "J",
+          "code1": "2202",
+          "provinceCode": "22",
+          "code": "220200",
+          "name": "吉林市"
+        },
+        {
+          "firstName": "J",
+          "code1": "2303",
+          "provinceCode": "23",
+          "code": "230300",
+          "name": "鸡西市"
+        },
+        {
+          "firstName": "J",
+          "code1": "2308",
+          "provinceCode": "23",
+          "code": "230800",
+          "name": "佳木斯市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3304",
+          "provinceCode": "33",
+          "code": "330400",
+          "name": "嘉兴市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3307",
+          "provinceCode": "33",
+          "code": "330700",
+          "name": "金华市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3602",
+          "provinceCode": "36",
+          "code": "360200",
+          "name": "景德镇市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3604",
+          "provinceCode": "36",
+          "code": "360400",
+          "name": "九江市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3608",
+          "provinceCode": "36",
+          "code": "360800",
+          "name": "吉安市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3701",
+          "provinceCode": "37",
+          "code": "370100",
+          "name": "济南市"
+        },
+        {
+          "firstName": "J",
+          "code1": "3708",
+          "provinceCode": "37",
+          "code": "370800",
+          "name": "济宁市"
+        },
+        {
+          "firstName": "J",
+          "code1": "4108",
+          "provinceCode": "41",
+          "code": "410800",
+          "name": "焦作市"
+        },
+        {
+          "firstName": "J",
+          "code1": "4208",
+          "provinceCode": "42",
+          "code": "420800",
+          "name": "荆门市"
+        },
+        {
+          "firstName": "J",
+          "code1": "4210",
+          "provinceCode": "42",
+          "code": "421000",
+          "name": "荆州市"
+        },
+        {
+          "firstName": "J",
+          "code1": "4407",
+          "provinceCode": "44",
+          "code": "440700",
+          "name": "江门市"
+        },
+        {
+          "firstName": "J",
+          "code1": "4452",
+          "provinceCode": "44",
+          "code": "445200",
+          "name": "揭阳市"
+        },
+        {
+          "firstName": "J",
+          "code1": "6202",
+          "provinceCode": "62",
+          "code": "620200",
+          "name": "嘉峪关市"
+        },
+        {
+          "firstName": "J",
+          "code1": "6203",
+          "provinceCode": "62",
+          "code": "620300",
+          "name": "金昌市"
+        },
+        {
+          "firstName": "J",
+          "code1": "6209",
+          "provinceCode": "62",
+          "code": "620900",
+          "name": "酒泉市"
+        }
+      ],
+      "initial": "J"
+    },
+    {
+      "list": [
+        {
+          "firstName": "K",
+          "code1": "4102",
+          "provinceCode": "41",
+          "code": "410200",
+          "name": "开封市"
+        },
+        {
+          "firstName": "K",
+          "code1": "5301",
+          "provinceCode": "53",
+          "code": "530100",
+          "name": "昆明市"
+        },
+        {
+          "firstName": "K",
+          "code1": "6502",
+          "provinceCode": "65",
+          "code": "650200",
+          "name": "克拉玛依市"
+        },
+        {
+          "firstName": "K",
+          "code1": "6530",
+          "provinceCode": "65",
+          "code": "653000",
+          "name": "克孜勒苏柯尔克孜自治州"
+        },
+        {
+          "firstName": "K",
+          "code1": "6531",
+          "provinceCode": "65",
+          "code": "653100",
+          "name": "喀什地区"
+        }
+      ],
+      "initial": "K"
+    },
+    {
+      "list": [
+        {
+          "firstName": "L",
+          "code1": "1310",
+          "provinceCode": "13",
+          "code": "131000",
+          "name": "廊坊市"
+        },
+        {
+          "firstName": "L",
+          "code1": "1410",
+          "provinceCode": "14",
+          "code": "141000",
+          "name": "临汾市"
+        },
+        {
+          "firstName": "L",
+          "code1": "1411",
+          "provinceCode": "14",
+          "code": "141100",
+          "name": "吕梁市"
+        },
+        {
+          "firstName": "L",
+          "code1": "2110",
+          "provinceCode": "21",
+          "code": "211000",
+          "name": "辽阳市"
+        },
+        {
+          "firstName": "L",
+          "code1": "2204",
+          "provinceCode": "22",
+          "code": "220400",
+          "name": "辽源市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3207",
+          "provinceCode": "32",
+          "code": "320700",
+          "name": "连云港市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3311",
+          "provinceCode": "33",
+          "code": "331100",
+          "name": "丽水市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3415",
+          "provinceCode": "34",
+          "code": "341500",
+          "name": "六安市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3508",
+          "provinceCode": "35",
+          "code": "350800",
+          "name": "龙岩市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3712",
+          "provinceCode": "37",
+          "code": "371200",
+          "name": "莱芜市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3713",
+          "provinceCode": "37",
+          "code": "371300",
+          "name": "临沂市"
+        },
+        {
+          "firstName": "L",
+          "code1": "3715",
+          "provinceCode": "37",
+          "code": "371500",
+          "name": "聊城市"
+        },
+        {
+          "firstName": "L",
+          "code1": "4103",
+          "provinceCode": "41",
+          "code": "410300",
+          "name": "洛阳市"
+        },
+        {
+          "firstName": "L",
+          "code1": "4111",
+          "provinceCode": "41",
+          "code": "411100",
+          "name": "漯河市"
+        },
+        {
+          "firstName": "L",
+          "code1": "4313",
+          "provinceCode": "43",
+          "code": "431300",
+          "name": "娄底市"
+        },
+        {
+          "firstName": "L",
+          "code1": "4502",
+          "provinceCode": "45",
+          "code": "450200",
+          "name": "柳州市"
+        },
+        {
+          "firstName": "L",
+          "code1": "4513",
+          "provinceCode": "45",
+          "code": "451300",
+          "name": "来宾市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5105",
+          "provinceCode": "51",
+          "code": "510500",
+          "name": "泸州市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5111",
+          "provinceCode": "51",
+          "code": "511100",
+          "name": "乐山市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5134",
+          "provinceCode": "51",
+          "code": "513400",
+          "name": "凉山彝族自治州"
+        },
+        {
+          "firstName": "L",
+          "code1": "5202",
+          "provinceCode": "52",
+          "code": "520200",
+          "name": "六盘水市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5307",
+          "provinceCode": "53",
+          "code": "530700",
+          "name": "丽江市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5309",
+          "provinceCode": "53",
+          "code": "530900",
+          "name": "临沧市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5401",
+          "provinceCode": "54",
+          "code": "540100",
+          "name": "拉萨市"
+        },
+        {
+          "firstName": "L",
+          "code1": "5404",
+          "provinceCode": "54",
+          "code": "540400",
+          "name": "林芝市"
+        },
+        {
+          "firstName": "L",
+          "code1": "6201",
+          "provinceCode": "62",
+          "code": "620100",
+          "name": "兰州市"
+        },
+        {
+          "firstName": "L",
+          "code1": "6212",
+          "provinceCode": "62",
+          "code": "621200",
+          "name": "陇南市"
+        },
+        {
+          "firstName": "L",
+          "code1": "6229",
+          "provinceCode": "62",
+          "code": "622900",
+          "name": "临夏回族自治州"
+        }
+      ],
+      "initial": "L"
+    },
+    {
+      "list": [
+        {
+          "firstName": "M",
+          "code1": "2310",
+          "provinceCode": "23",
+          "code": "231000",
+          "name": "牡丹江市"
+        },
+        {
+          "firstName": "M",
+          "code1": "3405",
+          "provinceCode": "34",
+          "code": "340500",
+          "name": "马鞍山市"
+        },
+        {
+          "firstName": "M",
+          "code1": "4409",
+          "provinceCode": "44",
+          "code": "440900",
+          "name": "茂名市"
+        },
+        {
+          "firstName": "M",
+          "code1": "4414",
+          "provinceCode": "44",
+          "code": "441400",
+          "name": "梅州市"
+        },
+        {
+          "firstName": "M",
+          "code1": "5107",
+          "provinceCode": "51",
+          "code": "510700",
+          "name": "绵阳市"
+        },
+        {
+          "firstName": "M",
+          "code1": "5114",
+          "provinceCode": "51",
+          "code": "511400",
+          "name": "眉山市"
+        }
+      ],
+      "initial": "M"
+    },
+    {
+      "list": [
+        {
+          "firstName": "N",
+          "code1": "3201",
+          "provinceCode": "32",
+          "code": "320100",
+          "name": "南京市"
+        },
+        {
+          "firstName": "N",
+          "code1": "3206",
+          "provinceCode": "32",
+          "code": "320600",
+          "name": "南通市"
+        },
+        {
+          "firstName": "N",
+          "code1": "3302",
+          "provinceCode": "33",
+          "code": "330200",
+          "name": "宁波市"
+        },
+        {
+          "firstName": "N",
+          "code1": "3507",
+          "provinceCode": "35",
+          "code": "350700",
+          "name": "南平市"
+        },
+        {
+          "firstName": "N",
+          "code1": "3509",
+          "provinceCode": "35",
+          "code": "350900",
+          "name": "宁德市"
+        },
+        {
+          "firstName": "N",
+          "code1": "3601",
+          "provinceCode": "36",
+          "code": "360100",
+          "name": "南昌市"
+        },
+        {
+          "firstName": "N",
+          "code1": "4113",
+          "provinceCode": "41",
+          "code": "411300",
+          "name": "南阳市"
+        },
+        {
+          "firstName": "N",
+          "code1": "4501",
+          "provinceCode": "45",
+          "code": "450100",
+          "name": "南宁市"
+        },
+        {
+          "firstName": "N",
+          "code1": "5110",
+          "provinceCode": "51",
+          "code": "511000",
+          "name": "内江市"
+        },
+        {
+          "firstName": "N",
+          "code1": "5113",
+          "provinceCode": "51",
+          "code": "511300",
+          "name": "南充市"
+        },
+        {
+          "firstName": "N",
+          "code1": "5333",
+          "provinceCode": "53",
+          "code": "533300",
+          "name": "怒江傈僳族自治州"
+        },
+        {
+          "firstName": "N",
+          "code1": "5406",
+          "provinceCode": "54",
+          "code": "540600",
+          "name": "那曲市"
+        }
+      ],
+      "initial": "N"
+    },
+    {
+      "list": [
+        {
+          "firstName": "P",
+          "code1": "2111",
+          "provinceCode": "21",
+          "code": "211100",
+          "name": "盘锦市"
+        },
+        {
+          "firstName": "P",
+          "code1": "3503",
+          "provinceCode": "35",
+          "code": "350300",
+          "name": "莆田市"
+        },
+        {
+          "firstName": "P",
+          "code1": "3603",
+          "provinceCode": "36",
+          "code": "360300",
+          "name": "萍乡市"
+        },
+        {
+          "firstName": "P",
+          "code1": "4104",
+          "provinceCode": "41",
+          "code": "410400",
+          "name": "平顶山市"
+        },
+        {
+          "firstName": "P",
+          "code1": "4109",
+          "provinceCode": "41",
+          "code": "410900",
+          "name": "濮阳市"
+        },
+        {
+          "firstName": "P",
+          "code1": "5104",
+          "provinceCode": "51",
+          "code": "510400",
+          "name": "攀枝花市"
+        },
+        {
+          "firstName": "P",
+          "code1": "5308",
+          "provinceCode": "53",
+          "code": "530800",
+          "name": "普洱市"
+        },
+        {
+          "firstName": "P",
+          "code1": "6208",
+          "provinceCode": "62",
+          "code": "620800",
+          "name": "平凉市"
+        }
+      ],
+      "initial": "P"
+    },
+    {
+      "list": [
+        {
+          "firstName": "Q",
+          "code1": "1303",
+          "provinceCode": "13",
+          "code": "130300",
+          "name": "秦皇岛市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "2302",
+          "provinceCode": "23",
+          "code": "230200",
+          "name": "齐齐哈尔市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "2309",
+          "provinceCode": "23",
+          "code": "230900",
+          "name": "七台河市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "3308",
+          "provinceCode": "33",
+          "code": "330800",
+          "name": "衢州市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "3505",
+          "provinceCode": "35",
+          "code": "350500",
+          "name": "泉州市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "3702",
+          "provinceCode": "37",
+          "code": "370200",
+          "name": "青岛市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "4418",
+          "provinceCode": "44",
+          "code": "441800",
+          "name": "清远市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "4507",
+          "provinceCode": "45",
+          "code": "450700",
+          "name": "钦州市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "5223",
+          "provinceCode": "52",
+          "code": "522300",
+          "name": "黔西南布依族苗族自治州"
+        },
+        {
+          "firstName": "Q",
+          "code1": "5226",
+          "provinceCode": "52",
+          "code": "522600",
+          "name": "黔东南苗族侗族自治州"
+        },
+        {
+          "firstName": "Q",
+          "code1": "5227",
+          "provinceCode": "52",
+          "code": "522700",
+          "name": "黔南布依族苗族自治州"
+        },
+        {
+          "firstName": "Q",
+          "code1": "5303",
+          "provinceCode": "53",
+          "code": "530300",
+          "name": "曲靖市"
+        },
+        {
+          "firstName": "Q",
+          "code1": "6210",
+          "provinceCode": "62",
+          "code": "621000",
+          "name": "庆阳市"
+        }
+      ],
+      "initial": "Q"
+    },
+    {
+      "list": [
+        {
+          "firstName": "R",
+          "code1": "3711",
+          "provinceCode": "37",
+          "code": "371100",
+          "name": "日照市"
+        },
+        {
+          "firstName": "R",
+          "code1": "5402",
+          "provinceCode": "54",
+          "code": "540200",
+          "name": "日喀则市"
+        }
+      ],
+      "initial": "R"
+    },
+    {
+      "list": [
+        {
+          "firstName": "S",
+          "code1": "1301",
+          "provinceCode": "13",
+          "code": "130100",
+          "name": "石家庄市"
+        },
+        {
+          "firstName": "S",
+          "code1": "1000",
+          "provinceCode": "10",
+          "code": "100000",
+          "name": "上海市"
+        },
+        {
+          "firstName": "S",
+          "code1": "1406",
+          "provinceCode": "14",
+          "code": "140600",
+          "name": "朔州市"
+        },
+        {
+          "firstName": "S",
+          "code1": "2101",
+          "provinceCode": "21",
+          "code": "210100",
+          "name": "沈阳市"
+        },
+        {
+          "firstName": "S",
+          "code1": "2203",
+          "provinceCode": "22",
+          "code": "220300",
+          "name": "四平市"
+        },
+        {
+          "firstName": "S",
+          "code1": "2207",
+          "provinceCode": "22",
+          "code": "220700",
+          "name": "松原市"
+        },
+        {
+          "firstName": "S",
+          "code1": "2305",
+          "provinceCode": "23",
+          "code": "230500",
+          "name": "双鸭山市"
+        },
+        {
+          "firstName": "S",
+          "code1": "2312",
+          "provinceCode": "23",
+          "code": "231200",
+          "name": "绥化市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3205",
+          "provinceCode": "32",
+          "code": "320500",
+          "name": "苏州市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3213",
+          "provinceCode": "32",
+          "code": "321300",
+          "name": "宿迁市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3306",
+          "provinceCode": "33",
+          "code": "330600",
+          "name": "绍兴市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3413",
+          "provinceCode": "34",
+          "code": "341300",
+          "name": "宿州市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3502",
+          "provinceCode": "35",
+          "code": "350200",
+          "name": "厦门市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3504",
+          "provinceCode": "35",
+          "code": "350400",
+          "name": "三明市"
+        },
+        {
+          "firstName": "S",
+          "code1": "3611",
+          "provinceCode": "36",
+          "code": "361100",
+          "name": "上饶市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4112",
+          "provinceCode": "41",
+          "code": "411200",
+          "name": "三门峡市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4114",
+          "provinceCode": "41",
+          "code": "411400",
+          "name": "商丘市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4203",
+          "provinceCode": "42",
+          "code": "420300",
+          "name": "十堰市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4213",
+          "provinceCode": "42",
+          "code": "421300",
+          "name": "随州市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4305",
+          "provinceCode": "43",
+          "code": "430500",
+          "name": "邵阳市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4402",
+          "provinceCode": "44",
+          "code": "440200",
+          "name": "韶关市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4403",
+          "provinceCode": "44",
+          "code": "440300",
+          "name": "深圳市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4405",
+          "provinceCode": "44",
+          "code": "440500",
+          "name": "汕头市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4415",
+          "provinceCode": "44",
+          "code": "441500",
+          "name": "汕尾市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4602",
+          "provinceCode": "46",
+          "code": "460200",
+          "name": "三亚市"
+        },
+        {
+          "firstName": "S",
+          "code1": "4603",
+          "provinceCode": "46",
+          "code": "460300",
+          "name": "三沙市"
+        },
+        {
+          "firstName": "S",
+          "code1": "5109",
+          "provinceCode": "51",
+          "code": "510900",
+          "name": "遂宁市"
+        },
+        {
+          "firstName": "S",
+          "code1": "5405",
+          "provinceCode": "54",
+          "code": "540500",
+          "name": "山南市"
+        },
+        {
+          "firstName": "S",
+          "code1": "6110",
+          "provinceCode": "61",
+          "code": "611000",
+          "name": "商洛市"
+        },
+        {
+          "firstName": "S",
+          "code1": "6402",
+          "provinceCode": "64",
+          "code": "640200",
+          "name": "石嘴山市"
+        }
+      ],
+      "initial": "S"
+    },
+    {
+      "list": [
+        {
+          "firstName": "T",
+          "code1": "1302",
+          "provinceCode": "13",
+          "code": "130200",
+          "name": "唐山市"
+        },
+        {
+          "firstName": "T",
+          "code1": "1401",
+          "provinceCode": "14",
+          "code": "140100",
+          "name": "太原市"
+        },
+        {
+          "firstName": "T",
+          "code1": "1505",
+          "provinceCode": "15",
+          "code": "150500",
+          "name": "通辽市"
+        },
+        {
+          "firstName": "T",
+          "code1": "2112",
+          "provinceCode": "21",
+          "code": "211200",
+          "name": "铁岭市"
+        },
+        {
+          "firstName": "T",
+          "code1": "2205",
+          "provinceCode": "22",
+          "code": "220500",
+          "name": "通化市"
+        },
+        {
+          "firstName": "T",
+          "code1": "3212",
+          "provinceCode": "32",
+          "code": "321200",
+          "name": "泰州市"
+        },
+        {
+          "firstName": "T",
+          "code1": "3310",
+          "provinceCode": "33",
+          "code": "331000",
+          "name": "台州市"
+        },
+        {
+          "firstName": "T",
+          "code1": "3407",
+          "provinceCode": "34",
+          "code": "340700",
+          "name": "铜陵市"
+        },
+        {
+          "firstName": "T",
+          "code1": "3709",
+          "provinceCode": "37",
+          "code": "370900",
+          "name": "泰安市"
+        },
+        {
+          "firstName": "T",
+          "code1": "5206",
+          "provinceCode": "52",
+          "code": "520600",
+          "name": "铜仁市"
+        },
+        {
+          "firstName": "T",
+          "code1": "6102",
+          "provinceCode": "61",
+          "code": "610200",
+          "name": "铜川市"
+        },
+        {
+          "firstName": "T",
+          "code1": "6205",
+          "provinceCode": "62",
+          "code": "620500",
+          "name": "天水市"
+        },
+        {
+          "firstName": "T",
+          "code1": "4000",
+          "provinceCode": "40",
+          "code": "400000",
+          "name": "天津市"
+        },
+        {
+          "firstName": "T",
+          "code1": "6504",
+          "provinceCode": "65",
+          "code": "650400",
+          "name": "吐鲁番市"
+        },
+        {
+          "firstName": "T",
+          "code1": "6542",
+          "provinceCode": "65",
+          "code": "654200",
+          "name": "塔城地区"
+        }
+      ],
+      "initial": "T"
+    },
+    {
+      "list": [
+        {
+          "firstName": "W",
+          "code1": "1503",
+          "provinceCode": "15",
+          "code": "150300",
+          "name": "乌海市"
+        },
+        {
+          "firstName": "W",
+          "code1": "1509",
+          "provinceCode": "15",
+          "code": "150900",
+          "name": "乌兰察布市"
+        },
+        {
+          "firstName": "W",
+          "code1": "3202",
+          "provinceCode": "32",
+          "code": "320200",
+          "name": "无锡市"
+        },
+        {
+          "firstName": "W",
+          "code1": "3303",
+          "provinceCode": "33",
+          "code": "330300",
+          "name": "温州市"
+        },
+        {
+          "firstName": "W",
+          "code1": "3402",
+          "provinceCode": "34",
+          "code": "340200",
+          "name": "芜湖市"
+        },
+        {
+          "firstName": "W",
+          "code1": "3707",
+          "provinceCode": "37",
+          "code": "370700",
+          "name": "潍坊市"
+        },
+        {
+          "firstName": "W",
+          "code1": "3710",
+          "provinceCode": "37",
+          "code": "371000",
+          "name": "威海市"
+        },
+        {
+          "firstName": "W",
+          "code1": "4201",
+          "provinceCode": "42",
+          "code": "420100",
+          "name": "武汉市"
+        },
+        {
+          "firstName": "W",
+          "code1": "4504",
+          "provinceCode": "45",
+          "code": "450400",
+          "name": "梧州市"
+        },
+        {
+          "firstName": "W",
+          "code1": "5326",
+          "provinceCode": "53",
+          "code": "532600",
+          "name": "文山壮族苗族自治州"
+        },
+        {
+          "firstName": "W",
+          "code1": "6105",
+          "provinceCode": "61",
+          "code": "610500",
+          "name": "渭南市"
+        },
+        {
+          "firstName": "W",
+          "code1": "6206",
+          "provinceCode": "62",
+          "code": "620600",
+          "name": "武威市"
+        },
+        {
+          "firstName": "W",
+          "code1": "6403",
+          "provinceCode": "64",
+          "code": "640300",
+          "name": "吴忠市"
+        },
+        {
+          "firstName": "W",
+          "code1": "6501",
+          "provinceCode": "65",
+          "code": "650100",
+          "name": "乌鲁木齐市"
+        }
+      ],
+      "initial": "W"
+    },
+    {
+      "list": [
+        {
+          "firstName": "X",
+          "code1": "1305",
+          "provinceCode": "13",
+          "code": "130500",
+          "name": "邢台市"
+        },
+        {
+          "firstName": "X",
+          "code1": "1409",
+          "provinceCode": "14",
+          "code": "140900",
+          "name": "忻州市"
+        },
+        {
+          "firstName": "X",
+          "code1": "1522",
+          "provinceCode": "15",
+          "code": "152200",
+          "name": "兴安盟"
+        },
+        {
+          "firstName": "X",
+          "code1": "1525",
+          "provinceCode": "15",
+          "code": "152500",
+          "name": "锡林郭勒盟"
+        },
+        {
+          "firstName": "X",
+          "code1": "3203",
+          "provinceCode": "32",
+          "code": "320300",
+          "name": "徐州市"
+        },
+        {
+          "firstName": "X",
+          "code1": "3418",
+          "provinceCode": "34",
+          "code": "341800",
+          "name": "宣城市"
+        },
+        {
+          "firstName": "X",
+          "code1": "3605",
+          "provinceCode": "36",
+          "code": "360500",
+          "name": "新余市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4107",
+          "provinceCode": "41",
+          "code": "410700",
+          "name": "新乡市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4110",
+          "provinceCode": "41",
+          "code": "411000",
+          "name": "许昌市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4115",
+          "provinceCode": "41",
+          "code": "411500",
+          "name": "信阳市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4206",
+          "provinceCode": "42",
+          "code": "420600",
+          "name": "襄阳市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4209",
+          "provinceCode": "42",
+          "code": "420900",
+          "name": "孝感市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4212",
+          "provinceCode": "42",
+          "code": "421200",
+          "name": "咸宁市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4303",
+          "provinceCode": "43",
+          "code": "430300",
+          "name": "湘潭市"
+        },
+        {
+          "firstName": "X",
+          "code1": "4331",
+          "provinceCode": "43",
+          "code": "433100",
+          "name": "湘西土家族苗族自治州"
+        },
+        {
+          "firstName": "X",
+          "code1": "5328",
+          "provinceCode": "53",
+          "code": "532800",
+          "name": "西双版纳傣族自治州"
+        },
+        {
+          "firstName": "X",
+          "code1": "6101",
+          "provinceCode": "61",
+          "code": "610100",
+          "name": "西安市"
+        },
+        {
+          "firstName": "X",
+          "code1": "6104",
+          "provinceCode": "61",
+          "code": "610400",
+          "name": "咸阳市"
+        },
+        {
+          "firstName": "X",
+          "code1": "6301",
+          "provinceCode": "63",
+          "code": "630100",
+          "name": "西宁市"
+        }
+      ],
+      "initial": "X"
+    },
+    {
+      "list": [
+        {
+          "firstName": "Y",
+          "code1": "1403",
+          "provinceCode": "14",
+          "code": "140300",
+          "name": "阳泉市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "1408",
+          "provinceCode": "14",
+          "code": "140800",
+          "name": "运城市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "2108",
+          "provinceCode": "21",
+          "code": "210800",
+          "name": "营口市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "2224",
+          "provinceCode": "22",
+          "code": "222400",
+          "name": "延边朝鲜族自治州"
+        },
+        {
+          "firstName": "Y",
+          "code1": "2307",
+          "provinceCode": "23",
+          "code": "230700",
+          "name": "伊春市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "3209",
+          "provinceCode": "32",
+          "code": "320900",
+          "name": "盐城市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "3210",
+          "provinceCode": "32",
+          "code": "321000",
+          "name": "扬州市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "3606",
+          "provinceCode": "36",
+          "code": "360600",
+          "name": "鹰潭市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "3609",
+          "provinceCode": "36",
+          "code": "360900",
+          "name": "宜春市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "3706",
+          "provinceCode": "37",
+          "code": "370600",
+          "name": "烟台市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4205",
+          "provinceCode": "42",
+          "code": "420500",
+          "name": "宜昌市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4306",
+          "provinceCode": "43",
+          "code": "430600",
+          "name": "岳阳市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4309",
+          "provinceCode": "43",
+          "code": "430900",
+          "name": "益阳市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4311",
+          "provinceCode": "43",
+          "code": "431100",
+          "name": "永州市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4417",
+          "provinceCode": "44",
+          "code": "441700",
+          "name": "阳江市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4453",
+          "provinceCode": "44",
+          "code": "445300",
+          "name": "云浮市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "4509",
+          "provinceCode": "45",
+          "code": "450900",
+          "name": "玉林市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "5115",
+          "provinceCode": "51",
+          "code": "511500",
+          "name": "宜宾市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "5118",
+          "provinceCode": "51",
+          "code": "511800",
+          "name": "雅安市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "5304",
+          "provinceCode": "53",
+          "code": "530400",
+          "name": "玉溪市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "6106",
+          "provinceCode": "61",
+          "code": "610600",
+          "name": "延安市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "6108",
+          "provinceCode": "61",
+          "code": "610800",
+          "name": "榆林市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "6327",
+          "provinceCode": "63",
+          "code": "632700",
+          "name": "玉树藏族自治州"
+        },
+        {
+          "firstName": "Y",
+          "code1": "6401",
+          "provinceCode": "64",
+          "code": "640100",
+          "name": "银川市"
+        },
+        {
+          "firstName": "Y",
+          "code1": "6540",
+          "provinceCode": "65",
+          "code": "654000",
+          "name": "伊犁哈萨克自治州"
+        }
+      ],
+      "initial": "Y"
+    },
+    {
+      "list": [
+        {
+          "firstName": "Z",
+          "code1": "1307",
+          "provinceCode": "13",
+          "code": "130700",
+          "name": "张家口市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "1404",
+          "provinceCode": "14",
+          "code": "140400",
+          "name": "长治市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "2201",
+          "provinceCode": "22",
+          "code": "220100",
+          "name": "长春市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "3211",
+          "provinceCode": "32",
+          "code": "321100",
+          "name": "镇江市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "3309",
+          "provinceCode": "33",
+          "code": "330900",
+          "name": "舟山市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "3506",
+          "provinceCode": "35",
+          "code": "350600",
+          "name": "漳州市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "3703",
+          "provinceCode": "37",
+          "code": "370300",
+          "name": "淄博市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "3704",
+          "provinceCode": "37",
+          "code": "370400",
+          "name": "枣庄市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4101",
+          "provinceCode": "41",
+          "code": "410100",
+          "name": "郑州市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4116",
+          "provinceCode": "41",
+          "code": "411600",
+          "name": "周口市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4117",
+          "provinceCode": "41",
+          "code": "411700",
+          "name": "驻马店市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4301",
+          "provinceCode": "43",
+          "code": "430100",
+          "name": "长沙市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4302",
+          "provinceCode": "43",
+          "code": "430200",
+          "name": "株洲市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4308",
+          "provinceCode": "43",
+          "code": "430800",
+          "name": "张家界市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4404",
+          "provinceCode": "44",
+          "code": "440400",
+          "name": "珠海市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4408",
+          "provinceCode": "44",
+          "code": "440800",
+          "name": "湛江市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4412",
+          "provinceCode": "44",
+          "code": "441200",
+          "name": "肇庆市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "4420",
+          "provinceCode": "44",
+          "code": "442000",
+          "name": "中山市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "5103",
+          "provinceCode": "51",
+          "code": "510300",
+          "name": "自贡市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "5120",
+          "provinceCode": "51",
+          "code": "512000",
+          "name": "资阳市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "5203",
+          "provinceCode": "52",
+          "code": "520300",
+          "name": "遵义市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "5306",
+          "provinceCode": "53",
+          "code": "530600",
+          "name": "昭通市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "6207",
+          "provinceCode": "62",
+          "code": "620700",
+          "name": "张掖市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "6405",
+          "provinceCode": "64",
+          "code": "640500",
+          "name": "中卫市"
+        },
+        {
+          "firstName": "Z",
+          "code1": "6590",
+          "provinceCode": "65",
+          "code": "659000",
+          "name": "自治区直辖县级行政区划"
+        }
+      ],
+      "initial": "Z"
+    }
+  ]
+}
